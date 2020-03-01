@@ -3,5 +3,5 @@ Mu-plugin для генерации миниатюр новых размеров
 
 Можно указать какие именно размеры нужно перегенерировать.
 
-wp renakdup:generate-thumbnails --count
+wp renakdup:generate-thumbnails --count  
 wp renakdup:generate-thumbnails --offset=100 --number=10
